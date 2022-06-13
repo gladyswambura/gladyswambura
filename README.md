@@ -1,6 +1,6 @@
 ### Hi there 👋 am Gladys W. Wambura
 
-<div id="header" align="center">
+<div id="header" align="right">
   <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
 </div>
 
