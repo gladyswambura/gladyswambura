@@ -1,10 +1,10 @@
-### Hi there 👋 am Gladys W. Wambura
+### Hi 👋 am Gladys W. Wambura
 
-<div id="header" align="right">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges"align="center">
   <a href="https://www.linkedin.com/in/gladys-wahito-wambura/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
