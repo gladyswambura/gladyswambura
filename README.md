@@ -1,7 +1,7 @@
 #### Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="30px"/>This is Gladys!
-*I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.*
+*Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.*
 ---
-  
+  <img align="right" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200"/>
   <div id="badges"align="center">
     <a href="https://www.linkedin.com/in/gladys-wahito-wambura/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,10 +15,6 @@
     <a href="http://mailto:gladyswahito7@gmail.com">
       <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
     </a>
-  </div>
-  
-  <div id="header" top="-120px">
-    <img src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200"/>
   </div>
   
   <div id="counter" align="center">
