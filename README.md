@@ -2,7 +2,7 @@
 *I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.*
 ---
 <div align="center">
-  <div style="display: flex; align-items: flex-start;">
+  <div style="display: flex;">
     
     <div id="header">
       <img src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200"/>
