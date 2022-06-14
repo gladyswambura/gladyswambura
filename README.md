@@ -18,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=gladyswambura&style=flat-square&color=blue" alt="viewscounter"/>
 </div>
 <hr>
-### :code Queen: About Me :
+### code Queen: About Me :
 
 
 
