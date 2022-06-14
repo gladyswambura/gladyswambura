@@ -1,5 +1,4 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
-
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" height="5px"/>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
@@ -18,6 +17,9 @@
 </div>
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=gladyswambura&style=flat-square&color=blue" alt="viewscounter"/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="100"/>
 </div>
 
 
