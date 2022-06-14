@@ -18,9 +18,9 @@
 <img src="https://komarev.com/ghpvc/?username=gladyswambura&style=flat-square&color=blue" alt="viewscounter"/>
 </div>
 <hr>
-### :woman_technologist: About Me :
+ :woman_technologist: About Me :
 
-
+-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
 
 About Me:
 
