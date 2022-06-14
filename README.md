@@ -1,6 +1,11 @@
 #### Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="30px"/>This is Gladys!
 *I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.*
 ---
+<p float="left">
+  <img src="/img1.png" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
 <div class="row">
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200"/>
