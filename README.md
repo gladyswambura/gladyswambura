@@ -6,6 +6,8 @@
   <img src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200"/>
 </div>
   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gladyswambura&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  
   [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=gladyswambura&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
   
   
