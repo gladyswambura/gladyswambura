@@ -1,8 +1,5 @@
-### Hi 👋 am Gladys W. Wambura
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
@@ -19,7 +16,9 @@
     <img src="https://img.shields.io/badge/Github-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
-<img align="center" src="https://komarev.com/ghpvc/?username=gladyswambura&style=flat-square&color=blue" alt="viewscounter"/>
+<div id="counter" align="center">
+<img src="https://komarev.com/ghpvc/?username=gladyswambura&style=flat-square&color=blue" alt="viewscounter"/>
+</div>
 
 
 
