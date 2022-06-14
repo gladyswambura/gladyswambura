@@ -3,7 +3,8 @@
 ---
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <div id="header" align="left">
+    
+    <div id="header">
       <img src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200"/>
     </div>
   
@@ -21,7 +22,8 @@
         <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
       </a>
     </div>
-  </div>
+    
+ </div>
 </div>
     
 <div id="counter" align="center">
