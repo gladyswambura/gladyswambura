@@ -15,6 +15,9 @@
   <a href="https://github.com/gladyswambura">
     <img src="https://img.shields.io/badge/Github-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
+  <a href="http://mailto:gladyswahito7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
+  </a>
 </div>
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=gladyswambura&style=flat-square&color=blue" alt="viewscounter"/>
@@ -25,7 +28,7 @@
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 
-- :💬 How to reach me: [![Email Badge](https://img.shields.io/badge/-Email-blue?style=flat&logo=Email&logoColor=white)](http://mailto:gladyswahito7@gmail.com)
+- :💬 How to reach me: 
 
 
 - 🔭 I’m currently working on ...
