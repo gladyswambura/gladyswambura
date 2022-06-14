@@ -5,6 +5,10 @@
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200"/>
 </div>
+  
+  [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=gladyswambura&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
 <div id="badges"align="center" margin-top="-20px">
   <a href="https://www.linkedin.com/in/gladys-wahito-wambura/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
