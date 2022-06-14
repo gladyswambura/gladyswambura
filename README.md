@@ -16,12 +16,15 @@
       <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
     </a>
   </div>
-      <img align="center" src="https://komarev.com/ghpvc/?username=gladyswambura&style=flat-square&color=blue" alt="viewscounter"/>
-      
+  
   <div id="header" top="-120px">
     <img src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200"/>
   </div>
   
+  <div id="counter" align="center">
+      <img  src="https://komarev.com/ghpvc/?username=gladyswambura&style=flat-square&color=blue" alt="viewscounter"/>
+  </div>
+      
 
 
 <hr>
