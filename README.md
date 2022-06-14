@@ -1,7 +1,7 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px" height="5px"/>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/emGDBYPZ2mVrsS1biZ/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif" width="300"/>
 </div>
 
 <div id="badges"align="center">
@@ -19,7 +19,7 @@
 <img src="https://komarev.com/ghpvc/?username=gladyswambura&style=flat-square&color=blue" alt="viewscounter"/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="100"/>
+  <img src="https://media.giphy.com/media/Ho8klqe5oPLa8g6BNe/giphy.gif" width="500" height="300"/>
 </div>
 
 
