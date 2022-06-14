@@ -2,30 +2,32 @@
 *I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.*
 ---
 <div align="center">
-  <div style="display: flex;">
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200"/>
-</div>
+  <div style="display: flex; align-items: flex-start;">
+    <div id="header" align="left">
+      <img src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200"/>
+    </div>
   
-<div id="badges"align="center" margin-top="-20px">
-  <a href="https://www.linkedin.com/in/gladys-wahito-wambura/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/arinahgladoo/">
-    <img src="https://img.shields.io/badge/Instgram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://github.com/gladyswambura">
-    <img src="https://img.shields.io/badge/Github-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-  <a href="http://mailto:gladyswahito7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
-  </a>
+    <div id="badges"align="center" margin-top="-20px">
+      <a href="https://www.linkedin.com/in/gladys-wahito-wambura/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+      <a href="https://www.instagram.com/arinahgladoo/">
+        <img src="https://img.shields.io/badge/Instgram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+      </a>
+      <a href="https://github.com/gladyswambura">
+        <img src="https://img.shields.io/badge/Github-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+      </a>
+      <a href="http://mailto:gladyswahito7@gmail.com">
+        <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
+      </a>
+    </div>
+  </div>
 </div>
+    
 <div id="counter" align="center">
 <img src="https://komarev.com/ghpvc/?username=gladyswambura&style=flat-square&color=blue" alt="viewscounter"/>
 </div>
- </div>
-  </div>
+
 <hr>
    
   [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=gladyswambura&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
