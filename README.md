@@ -14,7 +14,10 @@
   <a href="https://github.com/gladyswambura">
     <img src="https://img.shields.io/badge/Github-lightgrey?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=gladyswambura&style=flat-square&color=blue" alt="viewscounter"/>
 </div>
+
+
 
 About Me:
 
