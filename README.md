@@ -16,6 +16,14 @@
       <img  src="https://komarev.com/ghpvc/?username=gladyswambura&style=flat-square&color=blue" alt="viewscounter"/>
   </div>
   
+  <div id="followers" align="center">
+    [![GitHub followers](https://img.shields.io/github/followers/gladyswambura?style=social)](https://www.github.com/sriharikapu)
+  </div>
+  
+  <div id="updates" align="center">
+    ![Profile Views](https://komarev.com/ghpvc/?username=gladyswambura&color=blue)
+  </div>
+  
   <div id="badges"align="center">
     <a href="https://www.linkedin.com/in/gladys-wahito-wambura/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -30,10 +38,17 @@
       <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
     </a>
   </div>
+  
+  
+  
     
  :woman_technologist: About Me :
  
-   class SoftwareEngineer:
+  #!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+
+class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Gladys W. Wambura"
@@ -46,6 +61,8 @@
 
 me = SoftwareEngineer()
 me.say_hi()
+
+<hr>
 
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     
