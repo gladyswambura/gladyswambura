@@ -7,12 +7,12 @@
   <div align="center">
   
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gladyswambura.gladyswambura)
-  
 
    [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
   
+   [![GitHub followers](https://img.shields.io/github/followers/gladyswambura?label=Follow&style=social)](https://github.com/Rishit-dagli) 
   
-   <a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
+  [![Medium](https://github.com/Rishit-dagli/gladyswambura/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli) 
   
   </div>
   
