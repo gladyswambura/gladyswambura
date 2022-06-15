@@ -10,25 +10,10 @@
 
    [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
   
-  </div>
-  
-  <div id="counter" align="center">
-  
-      <img  src="https://komarev.com/ghpvc/?username=gladyswambura&style=flat-square&color=blue" alt="viewscounter"/>
+   <a href="https://github.com/sponsors/terrytangyuan"><img src="imgs/sponsors.svg" alt="Sponsors"></a>
   
   </div>
   
-  <div id="followers" align="center">
-  
-    [![GitHub followers](https://img.shields.io/github/followers/gladyswambura?style=social)](https://www.github.com/sriharikapu)
-  
-  </div>
-  
-  <div id="updates" align="center">
-  
-    ![Profile Views](https://komarev.com/ghpvc/?username=gladyswambura&color=blue)
-  
-  </div>
   
   <div id="badges"align="center">
     <a href="https://www.linkedin.com/in/gladys-wahito-wambura/">
