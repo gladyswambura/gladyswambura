@@ -1,10 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="30px"/> Nice to see you.</h1>
+
 ![Header](https://user-images.githubusercontent.com/97955649/173711800-5021758f-ed52-4fc9-a890-26d8f4958955.png)
 
 ---
   <img align="left" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200"/>
+ 
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gladyswambura.gladyswambura)
+  
   [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+  
   <div id="badges"align="center">
     <a href="https://www.linkedin.com/in/gladys-wahito-wambura/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -28,6 +32,7 @@
 
 <hr>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    
   [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=gladyswambura&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
   
  :woman_technologist: About Me :
