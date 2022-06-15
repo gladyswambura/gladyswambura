@@ -2,6 +2,8 @@
 *Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.*
 ---
   <img align="left" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200"/>
+  [![Maintenance](https://img.shields.io/badge/Repo-status%3F-Active-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+  <a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank">
   <div id="badges"align="center">
     <a href="https://www.linkedin.com/in/gladys-wahito-wambura/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
