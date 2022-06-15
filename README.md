@@ -15,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=gladyswambura&&style=flat-square" align="center" />
   
   </div>
-  <br>
+ 
   
   <div id="badges"align="center">
   
