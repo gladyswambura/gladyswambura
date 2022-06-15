@@ -30,32 +30,27 @@
       <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
     </a>
   </div>
-  
-  
-      
+    
+ :woman_technologist: About Me :
+ 
+   class SoftwareEngineer:
+
+    def __init__(self):
+        self.name = "Gladys W. Wambura"
+        self.role = "Software Engineer"
+        self.language_spoken = ["Swahili", "en_US"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-<hr>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+me = SoftwareEngineer()
+me.say_hi()
+
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
     
   [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=gladyswambura&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
   
- :woman_technologist: About Me :
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 
-- :💬 How to reach me: 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
----
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <div align="center">\
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
