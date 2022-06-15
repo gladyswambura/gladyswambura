@@ -13,15 +13,21 @@
   </div>
   
   <div id="counter" align="center">
+  
       <img  src="https://komarev.com/ghpvc/?username=gladyswambura&style=flat-square&color=blue" alt="viewscounter"/>
+  
   </div>
   
   <div id="followers" align="center">
+  
     [![GitHub followers](https://img.shields.io/github/followers/gladyswambura?style=social)](https://www.github.com/sriharikapu)
+  
   </div>
   
   <div id="updates" align="center">
+  
     ![Profile Views](https://komarev.com/ghpvc/?username=gladyswambura&color=blue)
+  
   </div>
   
   <div id="badges"align="center">
