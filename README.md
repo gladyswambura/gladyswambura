@@ -33,12 +33,11 @@
   </div>
   
   <hr>
-  
-    
+     
  :woman_technologist: About Me :
  
       #!/usr/bin/python
-    # -*- coding: utf-8 -*-
+    # -*- coding: utf-8 -*- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
     class SoftwareEngineer:
 
@@ -56,9 +55,14 @@
 
 <hr>
 
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-    
+ <div align="center">
+  <div display="flex">
   [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=gladyswambura&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gladyswambura&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  </div>
+    
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <div align="center">\
@@ -80,7 +84,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gladyswambura&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gladyswambura&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
  </div>
  ![Snake animation](https://github.com/gladyswambura/gladyswambura/blob/output/github-contribution-grid-snake.svg)
  <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=gladyswambura&theme=<THEME_NAME>" />
