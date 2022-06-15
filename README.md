@@ -73,10 +73,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="flask" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="70" height="70"/>
 </div>
-
-<div align="center">
   
   <h2> :fire: My Stats : </h2>
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gladyswambura&theme=dark&background=000000)](https://git.io/streak-stats)
+  <div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gladyswambura&theme=dark&background=000000)](https://git.io/streak-stats)
+    
+  </div>
 
