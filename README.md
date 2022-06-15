@@ -12,7 +12,7 @@
   
    [![GitHub followers](https://img.shields.io/github/followers/gladyswambura?label=Follow&style=social)](https://github.com/Rishit-dagli) 
   
-  [![Medium](https://github.com/Rishit-dagli/gladyswambura/blob/master/badges/medium.svg)](https://medium.com/@rishit.dagli) 
+  <img src="https://komarev.com/ghpvc/?username=gladyswambura&&style=flat-square" align="center" />
   
   </div>
   
