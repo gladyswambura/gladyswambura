@@ -61,8 +61,6 @@
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladyswambura&theme=vision-friendly-dark&layout=compact" />
 </div>
 
-<hr>    
-  
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <div align="center">\
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -78,12 +76,7 @@
 
 <div align="center">
   
-### :fire: My Stats :
+  <h2> :fire: My Stats : </h2>
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gladyswambura&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-
- </div>
- ![Snake animation](https://github.com/gladyswambura/gladyswambura/blob/output/github-contribution-grid-snake.svg)
- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=gladyswambura&theme=<THEME_NAME>" />
