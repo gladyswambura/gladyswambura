@@ -10,7 +10,7 @@
 
    [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
   
-   [![GitHub followers](https://img.shields.io/github/followers/gladyswambura?label=Follow&style=social)](https://github.com/Rishit-dagli) 
+   [![GitHub followers](https://img.shields.io/github/followers/gladyswambura?label=Follow&style=social)](https://github.com/gladyswambura) 
   
   <img src="https://komarev.com/ghpvc/?username=gladyswambura&&style=flat-square" align="center" />
   
