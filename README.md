@@ -4,12 +4,12 @@
 
 ---
   <img align="left" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200"/>
- 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gladyswambura.gladyswambura)
-  
-  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
   
   <div id="badges"align="center">
+    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gladyswambura.gladyswambura)
+
+    [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+
     <a href="https://www.linkedin.com/in/gladys-wahito-wambura/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
