@@ -37,7 +37,7 @@
  :woman_technologist: About Me :
  
       #!/usr/bin/python
-    # -*- coding: utf-8 -*- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+    # -*- coding: utf-8 -*- 
 
     class SoftwareEngineer:
 
